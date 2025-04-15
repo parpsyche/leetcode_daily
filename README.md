@@ -120,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/parpsyche/leetcode_daily/tree/master/1396-count-servers-that-communicate) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/parpsyche/leetcode_daily/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/parpsyche/leetcode_daily/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
