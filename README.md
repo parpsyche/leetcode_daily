@@ -91,12 +91,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/parpsyche/leetcode_daily/tree/master/0133-clone-graph) |
 | [0407-trapping-rain-water-ii](https://github.com/parpsyche/leetcode_daily/tree/master/0407-trapping-rain-water-ii) |
+| [0801-is-graph-bipartite](https://github.com/parpsyche/leetcode_daily/tree/master/0801-is-graph-bipartite) |
 | [1396-count-servers-that-communicate](https://github.com/parpsyche/leetcode_daily/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/parpsyche/leetcode_daily/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/parpsyche/leetcode_daily/tree/master/0133-clone-graph) |
+| [0801-is-graph-bipartite](https://github.com/parpsyche/leetcode_daily/tree/master/0801-is-graph-bipartite) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/parpsyche/leetcode_daily/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1916-find-center-of-star-graph](https://github.com/parpsyche/leetcode_daily/tree/master/1916-find-center-of-star-graph) |
 ## Heap (Priority Queue)
@@ -120,10 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/parpsyche/leetcode_daily/tree/master/0133-clone-graph) |
+| [0801-is-graph-bipartite](https://github.com/parpsyche/leetcode_daily/tree/master/0801-is-graph-bipartite) |
 | [1396-count-servers-that-communicate](https://github.com/parpsyche/leetcode_daily/tree/master/1396-count-servers-that-communicate) |
 ## Union Find
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/parpsyche/leetcode_daily/tree/master/0801-is-graph-bipartite) |
 | [1396-count-servers-that-communicate](https://github.com/parpsyche/leetcode_daily/tree/master/1396-count-servers-that-communicate) |
 ## Math
 |  |
