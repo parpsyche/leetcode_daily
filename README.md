@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/parpsyche/leetcode_daily/tree/master/0001-two-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/parpsyche/leetcode_daily/tree/master/0407-trapping-rain-water-ii) |
 | [0952-word-subsets](https://github.com/parpsyche/leetcode_daily/tree/master/0952-word-subsets) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/parpsyche/leetcode_daily/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/parpsyche/leetcode_daily/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/parpsyche/leetcode_daily/tree/master/0133-clone-graph) |
 | [0952-word-subsets](https://github.com/parpsyche/leetcode_daily/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/parpsyche/leetcode_daily/tree/master/1502-construct-k-palindrome-strings) |
