@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/parpsyche/leetcode_daily/tree/master/0001-two-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/parpsyche/leetcode_daily/tree/master/0407-trapping-rain-water-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/parpsyche/leetcode_daily/tree/master/0747-min-cost-climbing-stairs) |
 | [0952-word-subsets](https://github.com/parpsyche/leetcode_daily/tree/master/0952-word-subsets) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/parpsyche/leetcode_daily/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/parpsyche/leetcode_daily/tree/master/1396-count-servers-that-communicate) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/parpsyche/leetcode_daily/tree/master/0070-climbing-stairs) |
+| [0747-min-cost-climbing-stairs](https://github.com/parpsyche/leetcode_daily/tree/master/0747-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
