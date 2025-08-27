@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/parpsyche/leetcode_daily/tree/master/0005-longest-palindromic-substring) |
 | [0952-word-subsets](https://github.com/parpsyche/leetcode_daily/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/parpsyche/leetcode_daily/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/parpsyche/leetcode_daily/tree/master/1524-string-matching-in-an-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/parpsyche/leetcode_daily/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/parpsyche/leetcode_daily/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/parpsyche/leetcode_daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/parpsyche/leetcode_daily/tree/master/0213-house-robber-ii) |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/parpsyche/leetcode_daily/tree/master/0070-climbing-stairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/parpsyche/leetcode_daily/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
