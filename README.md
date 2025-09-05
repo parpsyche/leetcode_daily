@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parpsyche/leetcode_daily/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/parpsyche/leetcode_daily/tree/master/0049-group-anagrams) |
 | [0198-house-robber](https://github.com/parpsyche/leetcode_daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/parpsyche/leetcode_daily/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/parpsyche/leetcode_daily/tree/master/0322-coin-change) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parpsyche/leetcode_daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/parpsyche/leetcode_daily/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/parpsyche/leetcode_daily/tree/master/0049-group-anagrams) |
 | [0952-word-subsets](https://github.com/parpsyche/leetcode_daily/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/parpsyche/leetcode_daily/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/parpsyche/leetcode_daily/tree/master/1524-string-matching-in-an-array) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/parpsyche/leetcode_daily/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parpsyche/leetcode_daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/parpsyche/leetcode_daily/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/parpsyche/leetcode_daily/tree/master/0133-clone-graph) |
 | [0952-word-subsets](https://github.com/parpsyche/leetcode_daily/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/parpsyche/leetcode_daily/tree/master/1502-construct-k-palindrome-strings) |
@@ -189,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parpsyche/leetcode_daily/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/parpsyche/leetcode_daily/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
