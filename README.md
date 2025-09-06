@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/parpsyche/leetcode_daily/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/parpsyche/leetcode_daily/tree/master/0049-group-anagrams) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/parpsyche/leetcode_daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/parpsyche/leetcode_daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/parpsyche/leetcode_daily/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/parpsyche/leetcode_daily/tree/master/0322-coin-change) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/parpsyche/leetcode_daily/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/parpsyche/leetcode_daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/parpsyche/leetcode_daily/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Bit Manipulation
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/parpsyche/leetcode_daily/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/parpsyche/leetcode_daily/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/parpsyche/leetcode_daily/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
