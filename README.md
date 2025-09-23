@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/parpsyche/leetcode_daily/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/parpsyche/leetcode_daily/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/parpsyche/leetcode_daily/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/parpsyche/leetcode_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/parpsyche/leetcode_daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/parpsyche/leetcode_daily/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/parpsyche/leetcode_daily/tree/master/0322-coin-change) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/parpsyche/leetcode_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1753-path-with-minimum-effort](https://github.com/parpsyche/leetcode_daily/tree/master/1753-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parpsyche/leetcode_daily/tree/master/0005-longest-palindromic-substring) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/parpsyche/leetcode_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sliding Window
 |  |
 | ------- |
