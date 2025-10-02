@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/parpsyche/leetcode_daily/tree/master/0102-binary-tree-level-order-traversal) |
 | [0133-clone-graph](https://github.com/parpsyche/leetcode_daily/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/parpsyche/leetcode_daily/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/parpsyche/leetcode_daily/tree/master/0322-coin-change) |
@@ -227,4 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/parpsyche/leetcode_daily/tree/master/0347-top-k-frequent-elements) |
+## Tree
+|  |
+| ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/parpsyche/leetcode_daily/tree/master/0102-binary-tree-level-order-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/parpsyche/leetcode_daily/tree/master/0102-binary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->
