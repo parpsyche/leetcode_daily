@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/parpsyche/leetcode_daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parpsyche/leetcode_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/parpsyche/leetcode_daily/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/parpsyche/leetcode_daily/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/parpsyche/leetcode_daily/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/parpsyche/leetcode_daily/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/parpsyche/leetcode_daily/tree/master/0347-top-k-frequent-elements) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/parpsyche/leetcode_daily/tree/master/0102-binary-tree-level-order-traversal) |
 | [0133-clone-graph](https://github.com/parpsyche/leetcode_daily/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/parpsyche/leetcode_daily/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/parpsyche/leetcode_daily/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/parpsyche/leetcode_daily/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/parpsyche/leetcode_daily/tree/master/0407-trapping-rain-water-ii) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/parpsyche/leetcode_daily/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/parpsyche/leetcode_daily/tree/master/0407-trapping-rain-water-ii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/parpsyche/leetcode_daily/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/parpsyche/leetcode_daily/tree/master/1396-count-servers-that-communicate) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/parpsyche/leetcode_daily/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/parpsyche/leetcode_daily/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/parpsyche/leetcode_daily/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/parpsyche/leetcode_daily/tree/master/0801-is-graph-bipartite) |
 | [1396-count-servers-that-communicate](https://github.com/parpsyche/leetcode_daily/tree/master/1396-count-servers-that-communicate) |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/parpsyche/leetcode_daily/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/parpsyche/leetcode_daily/tree/master/0801-is-graph-bipartite) |
 | [1396-count-servers-that-communicate](https://github.com/parpsyche/leetcode_daily/tree/master/1396-count-servers-that-communicate) |
 | [1753-path-with-minimum-effort](https://github.com/parpsyche/leetcode_daily/tree/master/1753-path-with-minimum-effort) |
