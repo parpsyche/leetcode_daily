@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/parpsyche/leetcode_daily/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/parpsyche/leetcode_daily/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/parpsyche/leetcode_daily/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/parpsyche/leetcode_daily/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parpsyche/leetcode_daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/parpsyche/leetcode_daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parpsyche/leetcode_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/parpsyche/leetcode_daily/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/parpsyche/leetcode_daily/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/parpsyche/leetcode_daily/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/parpsyche/leetcode_daily/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parpsyche/leetcode_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sliding Window
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/parpsyche/leetcode_daily/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/parpsyche/leetcode_daily/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/parpsyche/leetcode_daily/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/parpsyche/leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/parpsyche/leetcode_daily/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
