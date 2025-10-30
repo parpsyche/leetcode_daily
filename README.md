@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/parpsyche/leetcode_daily/tree/master/1524-string-matching-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/parpsyche/leetcode_daily/tree/master/1753-path-with-minimum-effort) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/parpsyche/leetcode_daily/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1983-maximum-population-year](https://github.com/parpsyche/leetcode_daily/tree/master/1983-maximum-population-year) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/parpsyche/leetcode_daily/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2145-grid-game](https://github.com/parpsyche/leetcode_daily/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/parpsyche/leetcode_daily/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/parpsyche/leetcode_daily/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1983-maximum-population-year](https://github.com/parpsyche/leetcode_daily/tree/master/1983-maximum-population-year) |
 | [2145-grid-game](https://github.com/parpsyche/leetcode_daily/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/parpsyche/leetcode_daily/tree/master/2465-shifting-letters-ii) |
 ## Hash Table
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/parpsyche/leetcode_daily/tree/master/0347-top-k-frequent-elements) |
 | [1396-count-servers-that-communicate](https://github.com/parpsyche/leetcode_daily/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/parpsyche/leetcode_daily/tree/master/1502-construct-k-palindrome-strings) |
+| [1983-maximum-population-year](https://github.com/parpsyche/leetcode_daily/tree/master/1983-maximum-population-year) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/parpsyche/leetcode_daily/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
