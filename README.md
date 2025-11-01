@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/parpsyche/leetcode_daily/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/parpsyche/leetcode_daily/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/parpsyche/leetcode_daily/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3034-points-that-intersect-with-cars](https://github.com/parpsyche/leetcode_daily/tree/master/3034-points-that-intersect-with-cars) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/parpsyche/leetcode_daily/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/parpsyche/leetcode_daily/tree/master/1983-maximum-population-year) |
 | [2145-grid-game](https://github.com/parpsyche/leetcode_daily/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/parpsyche/leetcode_daily/tree/master/2465-shifting-letters-ii) |
+| [3034-points-that-intersect-with-cars](https://github.com/parpsyche/leetcode_daily/tree/master/3034-points-that-intersect-with-cars) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/parpsyche/leetcode_daily/tree/master/1502-construct-k-palindrome-strings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/parpsyche/leetcode_daily/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/parpsyche/leetcode_daily/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3034-points-that-intersect-with-cars](https://github.com/parpsyche/leetcode_daily/tree/master/3034-points-that-intersect-with-cars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/parpsyche/leetcode_daily/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
